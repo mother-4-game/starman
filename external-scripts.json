@@ -10,5 +10,6 @@
   "hubot-youtube",
   "hubot-sentimental",
   "hubot-thank-you",
-  "hubot-group-alias"
+  "hubot-group-alias",
+  "hubot-factoids"
 ]
