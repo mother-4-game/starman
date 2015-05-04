@@ -9,5 +9,6 @@
   "hubot-rules",
   "hubot-youtube",
   "hubot-sentimental",
-  "hubot-thank-you"
+  "hubot-thank-you",
+  "hubot-group-alias"
 ]
